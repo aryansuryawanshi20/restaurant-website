@@ -28,7 +28,7 @@ This project is a single-page WordPress website designed and developed to practi
 The project was built in a local WordPress environment and later converted into a static website for deployment on a live hosting service.
 
 ## Live Website
-(Add your live Netlify link here)
+https://restaurant-wpwebsite.netlify.app/
 
 ## Developer
 **Arya Suryawanshi**  
