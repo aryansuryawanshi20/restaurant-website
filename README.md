@@ -31,5 +31,5 @@ The project was built in a local WordPress environment and later converted into 
 https://restaurant-wpwebsite.netlify.app/
 
 ## Developer
-**Arya Suryawanshi**  
+**Aryan Suryawanshi**  
 Junior Web Developer | WordPress Learner
